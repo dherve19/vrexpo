@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "ovrui": "~1.4.0",
     "react": "~15.4.1",
     "react-native": "~0.42.0",
